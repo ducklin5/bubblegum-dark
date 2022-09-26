@@ -1,0 +1,21 @@
+{
+  "name": "bubblegum-dark",
+  "displayName": "Bubblegum-dark",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "bubblegum-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bubblegum-dark-color-theme.json"
+      }
+    ]
+  }
+}
