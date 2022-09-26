@@ -1,16 +1,9 @@
-# bubblegum-dark README
+# bubblegum-dark
 
-## Working with Markdown
+A Visual Studio Code theme based on [baskerville/bubblegum](https://github.com/baskerville/bubblegum) (dark mode only)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![preview](./preview.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+## Usage:
+1. Clone this repo into your `~/.vscode/extensions/` folder.
+2. Select the `bubblegum dark` theme from the vscode ui
